@@ -1051,7 +1051,7 @@
       <self_collide>false</self_collide>
     </model>
     <include>
-      <uri>file:///home/ali-suleiman/slam_project_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/models/turtlebot3_waffle</uri>
+      <uri>file:///home/ali-suleiman/first_slam_project/install/turtlebot3_gazebo/share/turtlebot3_gazebo/models/turtlebot3_waffle</uri>
       <name>waffle</name>
       <pose>-1.0006537208147674 -5.0000000060919945 0.010007283495920671 -1.6140480043225582e-09 -0.0056917812797265249 -3.9125390035261671e-06</pose>
     </include>
